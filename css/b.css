@@ -1,0 +1,41 @@
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+.btn1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 129px;
+  height: 48px;
+  left: 1307px;
+  top: 10px;
+
+  /* Primary/Pink */
+
+  background: #f72585;
+  border-radius: 8px;
+}
+.navbar {
+}
+.btn2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 129px;
+  height: 48px;
+  left: 1170px;
+  top: 10px;
+
+  background: #fbfafa;
+  border-radius: 8px;
+}

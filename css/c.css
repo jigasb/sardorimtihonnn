@@ -1,0 +1,117 @@
+.container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
+.btn1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 129px;
+  height: 48px;
+  left: 1307px;
+  top: 10px;
+
+  background: #f72585;
+  border-radius: 8px;
+}
+
+.btn2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 8px 32px;
+  gap: 10px;
+
+  position: absolute;
+  width: 129px;
+  height: 48px;
+  left: 1170px;
+  top: 10px;
+
+  background: #fbfafa;
+  border-radius: 8px;
+}
+.yz {
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.hh1 {
+  font-size: 60px;
+  margin-top: 5%;
+}
+.hh2 {
+  margin-top: 5%;
+}
+.pp1 {
+  font-size: 20px;
+  width: 50%;
+  margin-top: 20px;
+}
+.kottadivv1 {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
+.divv {
+  padding-top: 5px;
+  padding-left: 5px;
+  width: 18%;
+  transition: 0.3s;
+}
+.h01 {
+  margin-top: 10px;
+  font-size: 20px;
+}
+.divv:hover {
+  scale: 1.1;
+  box-shadow: 0px 0px 10px rgb(215, 200, 200);
+}
+.yz01 {
+  margin-top: 5%;
+  gap: 650px;
+  justify-content: space-evenly;
+  display: flex;
+}
+.btn01 {
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: #f72585;
+  color: white;
+  width: 15%;
+}
+.kottadivv2 {
+  margin-left: 85px;
+}
+.dif {
+  margin-top: 30px;
+  display: flex;
+  gap: 30px;
+}
+.img01 {
+  width: 22%;
+}
+.yz02 {
+  margin-top: 5%;
+  justify-content: space-evenly;
+  display: flex;
+  gap: 600px;
+}
+.fg {
+  width: 30%;
+  display: flex;
+}
+.btn00 {
+  border: none;
+  margin-left: 20px;
+  background-color: #f72585;
+  color: white;
+  border-radius: 10px;
+  width: 100%;
+}
